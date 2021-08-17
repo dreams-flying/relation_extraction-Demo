@@ -1,4 +1,6 @@
 # relation_extraction-Demo
+# 模型展示
+![image](https://github.com/dreams-flying/relation_extraction-Demo/blob/master/images/demo.png)
 # 所需环境
 Python==3.6</br>
 tensorflow==1.14.0</br>
@@ -27,3 +29,5 @@ python app.py
 ```
 localhost:5000/
 ```
+# 模型训练
+关系抽取模型训练参考[relation_extraction-baseline](https://github.com/dreams-flying/relation_extraction-baseline)
